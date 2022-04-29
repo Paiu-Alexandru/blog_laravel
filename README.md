@@ -11,7 +11,6 @@ This project is divided into two parts, front-end and backend.
 <img src="laravelImages/Screenshot (80).png">
 <img src="laravelImages/Screenshot (81).png">
 <img src="laravelImages/Screenshot (82).png">
-<img src="laravelImages/Screenshot (82).png">
 <img src="laravelImages/Screenshot (83).png">
 <img src="laravelImages/Screenshot (84).png">
 <img src="laravelImages/Screenshot (85).png">
