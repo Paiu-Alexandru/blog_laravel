@@ -7,5 +7,14 @@ This project is divided into two parts, front-end and backend.
              This project can be managed from the first slide to the contact page.
 </p>
 <img src="laravelImages/Screenshot (78).png">
+<img src="laravelImages/Screenshot (79).png">
+<img src="laravelImages/Screenshot (80).png">
+<img src="laravelImages/Screenshot (81).png">
+<img src="laravelImages/Screenshot (82).png">
+<img src="laravelImages/Screenshot (82).png">
+<img src="laravelImages/Screenshot (83).png">
+<img src="laravelImages/Screenshot (84).png">
+<img src="laravelImages/Screenshot (85).png">
+<img src="laravelImages/Screenshot (86).png">
 
 
